@@ -11,6 +11,7 @@ import {
 import { About } from '../components/about.js'
 
 Vue.use(VueRouter)
+Vue.use(Vuetify)
 
 const router = new VueRouter({
   routes: [{
