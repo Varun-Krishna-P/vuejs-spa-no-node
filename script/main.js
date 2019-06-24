@@ -1,5 +1,4 @@
 import Vue from './vue.esm.browser.js'
-import Vuetify from './vuetify.js'
 
 import {
     Navbar
@@ -12,7 +11,6 @@ import {
 import { About } from '../components/about.js'
 
 Vue.use(VueRouter)
-Vue.use(Vuetify)
 
 const router = new VueRouter({
   routes: [{
