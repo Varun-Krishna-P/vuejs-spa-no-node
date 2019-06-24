@@ -3,7 +3,7 @@ const NavbarTemplate = `
 		<ul>
 			<li><a class="active" href="/">Home</a></li>
 			<li><a href="#/about">About Us</a></li>
-		<ul>
+		</ul>
 	</nav>`
 
 
